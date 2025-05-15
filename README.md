@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PneumaDev&show_icons=true&locale=en" alt="PneumaDev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PneumaDev&" alt="PneumaDev" /></p>
+![Anurag's GitHub stats](https://readme-stats-amber-nine.vercel.app/api?username=PneumaDev&show_icons=true&theme=radical)
