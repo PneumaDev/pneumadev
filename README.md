@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an ecommerce web app**
 
-- 🌱 I’m currently learning **AstroJs, NextJs**
+- 🌱 I’m currently learning advanced **AstroJs, NextJs**
 
 - 👯 I’m looking to collaborate on **anything MERN**
 
