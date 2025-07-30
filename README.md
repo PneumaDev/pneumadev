@@ -1,5 +1,5 @@
 <h1 align="center">console.log("Hi 👋, I'm Paul Kamau");</h1>
-<h3 align="center">A passionate full stack developer! ⚡ Who debugs life like it's production 😅</h3>
+<h3 align="center">A passionate full stack developer who debugs life like it's production 😅</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
