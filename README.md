@@ -1,14 +1,5 @@
-<h1 align="center">
-  console.log("Hello World 🌍, I'm Paul Kamau");
-</h1>
-
-<h3 align="center">
-  while(alive) { code(); debug(life, { env: "production" }); coffee.refill(); }
-</h3>
-
-<h4 align="center">
-  // Full Stack Developer | MERN & Next.js Alchemist | Bug Whisperer 🐛
-</h4>
+<h1 align="center">console.log("Hi 👋, I'm Paul Kamau 👨‍💻");</h1>
+<h3 align="center">Full Stack Dev | I treat life like it's a hotfix on Friday night 🚀</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
